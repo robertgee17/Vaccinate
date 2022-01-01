@@ -1,0 +1,31 @@
+7	120000	7	2	21
+3190	Asti
+4905	Lecce
+627	Civitavecchia
+3451	Pescara
+713	Perugia
+25799	Bologna
+360516	Trento
+Lecce
+Perugia
+Lecce	Asti	2	2000	751
+Civitavecchia	Asti	7	100000	6548
+Civitavecchia	Lecce	4	20000	2439
+Pescara	Asti	1	150	119
+Pescara	Lecce	1	170	135
+Pescara	Civitavecchia	1	100	170
+Perugia	Asti	1	150	108
+Perugia	Lecce	1	140	124
+Perugia	Civitavecchia	1	140	193
+Perugia	Pescara	2	2000	747
+Bologna	Asti	1	100	155
+Bologna	Lecce	2	1400	451
+Bologna	Civitavecchia	1	150	147
+Bologna	Pescara	1	160	168
+Bologna	Perugia	4	17000	1728
+Trento	Asti	1	140	147
+Trento	Lecce	1	200	162
+Trento	Civitavecchia	4	14000	1820
+Trento	Pescara	1	190	118
+Trento	Perugia	2	1400	415
+Trento	Bologna	1	100	134

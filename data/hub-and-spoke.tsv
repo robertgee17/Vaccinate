@@ -1,0 +1,48 @@
+14	270000	20	2	25
+9630	Southgate
+4075	Idabel
+144603	Altus
+145258	Placerville
+18235	Bothell
+675	Woodfield
+589	Bellmead
+552	Capitola
+600	Lovington
+2636	Seguin
+1554	Rosenberg
+15724	Taft
+548	Indianola
+26733	Fallon
+4075	Northfield
+844	Holmen
+903	Westerville
+6770	Enumclaw
+576	Reston
+782	Dunmore
+Southgate
+Capitola
+Idabel	Southgate	7	170000	10720
+Altus	Southgate	4	11000	3076
+Altus	Idabel	4	18000	2519
+Placerville	Southgate	7	120000	8432
+Placerville	Idabel	7	180000	11996
+Placerville	Altus	7	140000	7918
+Bothell	Southgate	7	110000	11357
+Bothell	Idabel	4	12000	1922
+Bothell	Altus	4	18000	2579
+Bothell	Placerville	4	19000	2769
+Woodfield	Bothell	2	1200	577
+Bellmead	Altus	1	130	108
+Capitola	Altus	1	150	182
+Lovington	Placerville	2	1300	546
+Seguin	Altus	1	190	187
+Rosenberg	Idabel	2	1600	758
+Taft	Placerville	1	160	173
+Indianola	Altus	1	120	147
+Fallon	Placerville	1	200	113
+Northfield	Southgate	1	140	133
+Holmen	Idabel	1	120	142
+Westerville	Placerville	1	120	137
+Enumclaw	Bothell	2	2000	600
+Reston	Altus	1	190	152
+Dunmore	Altus	1	140	183

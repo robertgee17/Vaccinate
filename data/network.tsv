@@ -1,0 +1,44 @@
+14	1500000	18	2	23
+7114	Dalandzadgad
+3847	Darhan
+610	Saynshand
+6369	Baruun-Urt
+2773563	Dzuunmod
+18261	Bulgan
+633	Erdenet
+671	Suhbaatar
+116329	Ulaangom
+11546	Ulaanbaatar
+4212	Hodrogo
+964	Ulaan-Uul
+554	Moron
+76433	Choybalsan
+15982	Bayanhongor
+921	Altay
+619	Dalanzadgad
+80439	Olgiy
+Ulaanbaatar
+Saynshand
+Darhan	Dalandzadgad	7	100000	11274
+Saynshand	Dalandzadgad	2	1800	407
+Saynshand	Darhan	1	100	107
+Baruun-Urt	Dalandzadgad	4	17000	2836
+Dzuunmod	Dalandzadgad	4	13000	2484
+Bulgan	Dalandzadgad	4	11000	2537
+Bulgan	Saynshand	1	180	148
+Erdenet	Darhan	4	13000	1728
+Erdenet	Baruun-Urt	1	180	110
+Suhbaatar	Dzuunmod	1	160	167
+Ulaangom	Baruun-Urt	1	180	200
+Ulaanbaatar	Darhan	1	140	170
+Hodrogo	Ulaanbaatar	2	1900	771
+Hodrogo	Suhbaatar	1	190	168
+Ulaan-Uul	Bulgan	7	110000	11617
+Moron	Dalandzadgad	1	120	130
+Choybalsan	Ulaanbaatar	1	120	192
+Choybalsan	Suhbaatar	4	17000	1656
+Choybalsan	Saynshand	4	13000	3102
+Bayanhongor	Ulaan-Uul	1	100	159
+Altay	Hodrogo	4	16000	2538
+Dalanzadgad	Dalandzadgad	2	1700	654
+Olgiy	Hodrogo	2	1900	478

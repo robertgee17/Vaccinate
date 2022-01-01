@@ -1,0 +1,55 @@
+10	1400000	19	2	33
+424693	Riohacha
+2101	Tame
+25329	Turbo
+15675	Ocana
+385094	Honda
+1336	Pamplona
+543730	Pasto
+48864	Inirida
+4805	Medellin
+546	Sincelejo
+1119	Lorica
+1053	Ayapel
+23411	Nuqui
+24619	Buenaventura
+860	Pereira
+921	Campoalegre
+556	Girardot
+669	Bogota
+3945	Tunja
+Nuqui
+Inirida
+Riohacha	Tame	1	1000	100
+Riohacha	Turbo	2	1000	100
+Riohacha	Ocana	3	1000	100
+Tame	Turbo	1	1000	100
+Tame	Ocana	2	1000	100
+Tame	Honda	3	1000	100
+Turbo	Ocana	1	1000	100
+Turbo	Honda	2	1000	100
+Turbo	Pamplona	3	1000	100
+Ocana	Honda	1	1000	100
+Ocana	Pamplona	2	1000	100
+Ocana	Pasto	3	1000	100
+Honda	Pamplona	1	1000	100
+Honda	Pasto	2	1000	100
+Honda	Riohacha	3	1000	100
+Pamplona	Pasto	1	1000	100
+Pamplona	Riohacha	2	1000	100
+Pamplona	Tame	3	1000	100
+Pasto	Riohacha	1	1000	100
+Pasto	Tame	2	1000	100
+Pasto	Turbo	3	1000	100
+Inirida	Tame	1	150	134
+Medellin	Pasto	1	150	182
+Sincelejo	Pamplona	4	11000	2901
+Lorica	Turbo	2	1900	700
+Ayapel	Honda	1	140	135
+Nuqui	Honda	1	130	111
+Buenaventura	Pamplona	1	180	194
+Pereira	Turbo	2	2000	404
+Campoalegre	Ocana	1	200	195
+Girardot	Pamplona	2	1300	456
+Bogota	Honda	1	130	194
+Tunja	Tame	1	140	181

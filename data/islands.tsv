@@ -1,0 +1,65 @@
+14	1100000	27	3	34
+8345	Laoag
+686	Tandag
+919	Lingayen
+696	Siquijor
+708	Kalibo
+20849	Vigan
+714	Ipil
+46080	Kidapawan
+2713	Valenzuela
+551	Bangued
+1253	Mamburao
+35234	Mati
+71938	Cadiz
+1401	Malita
+587	Antipolo
+1781	Baler
+26403	Ilagan
+11240	Malabon
+185968	Jolo
+2479	Cotabato
+550	Balanga
+1132	Ormoc
+546	Santiago
+24972	Dipolog
+16550	Gingoog
+8543	Prosperidad
+773	Daet
+Lingayen
+Cadiz
+Daet
+Tandag	Laoag	1	170	135
+Tandag	Laoag	2	1000	533
+Lingayen	Tandag	2	1400	752
+Siquijor	Lingayen	2	1700	723
+Kalibo	Tandag	2	2000	546
+Vigan	Lingayen	1	110	185
+Vigan	Lingayen	4	19000	2394
+Ipil	Laoag	1	180	164
+Kidapawan	Ipil	2	1700	474
+Valenzuela	Siquijor	4	15000	1752
+Mamburao	Bangued	1	150	119
+Mati	Mamburao	1	170	200
+Mati	Mamburao	2	1100	764
+Mati	Mamburao	4	16000	2157
+Mati	Bangued	1	100	128
+Mati	Bangued	1	150	127
+Cadiz	Bangued	1	100	149
+Malita	Mati	4	11000	3019
+Antipolo	Bangued	1	130	146
+Antipolo	Bangued	2	1900	561
+Antipolo	Malita	4	14000	1705
+Baler	Cadiz	1	150	129
+Ilagan	Antipolo	4	10000	1938
+Ilagan	Mamburao	4	10000	3164
+Malabon	Cadiz	1	170	197
+Cotabato	Jolo	2	1100	641
+Balanga	Cotabato	1	180	123
+Ormoc	Cotabato	1	110	134
+Santiago	Jolo	1	150	133
+Dipolog	Ormoc	1	100	145
+Gingoog	Balanga	1	190	117
+Prosperidad	Balanga	4	20000	2088
+Prosperidad	Balanga	1	110	101
+Daet	Dipolog	2	1600	600
